@@ -1,0 +1,17 @@
+{
+  "name": "froggyfrog-membership",
+  "version": "0.0.1",
+  "description": "Membership module",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
