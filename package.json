@@ -1,12 +1,16 @@
 {
-  "name": "froggyfrog-membership",
+  "name": "froggy-membership",
   "version": "0.0.1",
   "description": "Membership module",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "rethinkdb": "^2.4.2",
+    "should": "^13.2.3",
+    "uuid": "^3.4.0"
+  },
   "devDependencies": {
     "grunt": "*",
     "grunt-contrib-jshint": "*",
